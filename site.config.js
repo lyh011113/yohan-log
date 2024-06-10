@@ -4,7 +4,7 @@ const CONFIG = {
     name: "YH Lee",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Undergraduate Student",
-    bio: "Be humble, be hungry, and always be the hardest worker in the room.",
+    bio: "Plasm 139:23-24",
     email: "john1111369@gmail.com",
     linkedin: "yh-lee01",
     github: "lyh011113",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "YHLee-log",
-    description: "YHLee-log is a blog about AI, Christianity, and Life.",
+    title: "YHL-og",
+    description: "YHL-og is a blog about AI, Christianity, and Life.",
   },
 
   // CONFIG configration (required)

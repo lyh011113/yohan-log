@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      // name: ``,
-      // href: "",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)

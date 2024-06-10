@@ -4,22 +4,22 @@ const CONFIG = {
     name: "YH Lee",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "AI Researcher",
-    bio: "I interested in Meta-Learning, Reinforcement Learning, and Computer Vision.",
+    bio: "I interested in Meta-Learning",
     email: "john1111369@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    linkedin: "yh-lee01",
+    github: "lyh011113",
+    instagram: "yh._.lee01",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: ``,
+  //     href: "",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
-    title: "YHlee-log",
-    description: "YHlee-log is a blog about AI, Christianity, and Life.",
+    title: "YHLee-log",
+    description: "YHLee-log is a blog about AI, Christianity, and Life.",
   },
 
   // CONFIG configration (required)
